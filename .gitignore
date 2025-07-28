@@ -1,0 +1,8 @@
+.git/objects/*
+data/archive
+.DS_Store
+runtime/*
+archive/
+*.ipynb
+*.pack
+*.pyc
