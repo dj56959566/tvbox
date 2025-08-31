@@ -1717,7 +1717,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8$LR•IPV4•6『线路6』
 重庆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8$LR•IPV6•72『线路53』
 重庆卫视,http://a21709.tv.netsite.cc/proxy/562106987/562106987.m3u8$LR•IPV4•72『线路54』
 重庆卫视,http://220.192.12.20:8003/udp/225.0.4.187:7980?$LR•IPV4•72『线路55』
-重庆卫视,http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202508311400/app_2/_definst_/ls_2.stream/chunklist.m3u8$LR•IPV4•72『线路56』
+重庆卫视,http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202508311605/app_2/_definst_/ls_2.stream/chunklist.m3u8$LR•IPV4•72『线路56』
 重庆卫视,http://112.27.235.94:8000/hls/36/index.m3u8$LR•IPV4•72『线路57』
 重庆卫视,http://39.134.65.75/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8$LR•IPV4•72『线路58』
 重庆卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cqws$LR•IPV4•72『线路59』
@@ -2195,7 +2195,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8$LR•IPV4•6『线路6』
 甘肃卫视,http://a21709.tv.netsite.cc/proxy/910220240/910220240.m3u8$LR•IPV4•55『线路38』
 甘肃卫视,http://a21709.tv.netsite.cc/proxy/1209404373/1209404373.m3u8$LR•IPV4•55『线路39』
 甘肃卫视,http://a21709.tv.netsite.cc/proxy/1209404373/1209404373.m3u8$LR•IPV4•55『线路40』
-甘肃卫视,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8$LR•IPV4•55『线路41』
+甘肃卫视,http://p.ytelc.com/videojs.php?id=https://hls.gstv.com.cn/49048r/6e1sy2.m3u8$LR•IPV4•55『线路41』
 甘肃卫视,http://39.134.65.67/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8$LR•IPV4•55『线路42』
 甘肃卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=gsws$LR•IPV4•55『线路43』
 甘肃卫视,http://t.061899.xyz/tl/dq.php?id=gsws$LR•IPV4•55『线路44』
@@ -2404,7 +2404,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8$LR•IPV4•6『线路6』
 河南卫视,http://39.164.160.249:9901/tsfile/live/0139_1.m3u8$LR•IPV4•68『线路45』
 河南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$LR•IPV6•68『线路46』
 河南卫视,http://a21709.tv.netsite.cc/proxy/251465659/251465659.m3u8$LR•IPV4•68『线路47』
-河南卫视,http://119.147.118.51/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=680c91cca445eb629adcb6057b15d21c&wsTime=1756633618&wsSession=053c4abd8e6b0e2e4f59d49b-175662399794982&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1$LR•IPV4•68『线路48』
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=680c91cca445eb629adcb6057b15d21c&wsTime=1756633618$LR•IPV4•68『线路48』
 河南卫视,http://112.27.235.94:8000/hls/37/index.m3u8$LR•IPV4•68『线路49』
 河南卫视,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$LR•IPV4•68『线路50』
 河南卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hnws$LR•IPV4•68『线路51』
@@ -3313,7 +3313,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8$LR•IPV4•6『线路6』
 西藏卫视,http://home.wwang.pw:35455/itv/6603041244077933770.m3u8?cdn=ystenlive$LR•IPV4•57『线路38』
 西藏卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887434.m3u8$LR•IPV4•57『线路39』
 西藏卫视,http://a21709.tv.netsite.cc/proxy/1062504144/1062504144.m3u8$LR•IPV4•57『线路40』
-西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=8129a57100d8c70a823bac7a02e03b31&time=68b3f495$LR•IPV4•57『线路41』
+西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=7c33fbd14fb2772d6fffd7156bcb8f50&time=68b4027c$LR•IPV4•57『线路41』
 西藏卫视,http://39.134.65.72/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8$LR•IPV4•57『线路42』
 西藏卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=xzws$LR•IPV4•57『线路43』
 西藏卫视,http://t.061899.xyz/tl/dq.php?id=xzws$LR•IPV4•57『线路44』
@@ -3335,7 +3335,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8$LR•IPV4•6『线路6』
 海峡卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=$LR•IPV4•9『线路3』
 海峡卫视,http://r.jdshipin.com/WtYt3$LR•IPV4•9『线路4』
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8$LR•IPV4•9『线路5』
-海峡卫视,https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=f67886dd1756631956$LR•IPV4•9『线路6』
+海峡卫视,https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=f5a0ea241756635607$LR•IPV4•9『线路6』
 海峡卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hxws$LR•IPV4•9『线路7』
 海峡卫视,http://t.061899.xyz/tl/dq.php?id=hxws$LR•IPV4•9『线路8』
 海峡卫视,http://8.138.7.223/tv/fjtv1.php?id=hxws$LR•IPV4•9『线路9』
@@ -4096,7 +4096,7 @@ CHC家庭影院,http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0i
 金鹰卡通,http://[2409:8087:74d9:21::6]:80/270000001128/9900000039/index.m3u8$LR•IPV6•45『线路28』
 金鹰卡通,https://epg.pw/stream/c63a5626286e9017c57efde96337b54a1cb81a6626bb93f486fcbc1caadc7948.m3u8$LR•IPV4•45『线路29』
 金鹰卡通,https://epg.pw/stream/33c44b3d14a45ab0fbe06d98b6608a0067dd068ebb6bd8e4a931cb2e600f8548.m3u8$LR•IPV4•45『线路30』
-金鹰卡通,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWEwYjgzMTI3NTdkMWIyNGRiNWVkZDcwOWI0ZmU4MGJmJnVpZD0mdXVpZD0yMmQwOTc1YjZlNWFiZTAwNTlhYjZkZjAxMmFjZTAzOS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzU2NjI0MDg0/JYKTMPP360.m3u8$LR•IPV4•45『线路31』
+金鹰卡通,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXR4X3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTNmYTI0NGM5ZTAxMTkyOTQ2ZTMwYWJlNDU0MjY0MzhlJnVpZD0mdXVpZD05MmQ2NTM2Nzk2MjA2ZmRkY2YwMWI4OTFkNjkzNmI1YS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzU2NjUyOTE4/JYKTMPP360.m3u8$LR•IPV4•45『线路31』
 金鹰卡通,http://itv.iptv1688.top:2016/itv.php?id=金鹰卡通$LR•IPV4•45『线路32』
 金鹰卡通,http://home.wwang.pw:35455/itv/5000000006000040024.m3u8?cdn=bestzb$LR•IPV4•45『线路33』
 金鹰卡通,http://tvbox6.icu/tv/mgtv.php?id=287$LR•IPV4•45『线路34』
